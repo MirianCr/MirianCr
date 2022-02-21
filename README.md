@@ -1,6 +1,6 @@
 <img align="right" alt="menina-gif" height="200" width="210" src="https://user-images.githubusercontent.com/92062517/153969902-e9b4ee6e-6d82-414c-bb32-3133f8b3aded.gif">
-- 👋 Olá, eu sou @MirianCr
-- 👀 Estou atualmente estudando programação nos projetos da Oracle_One + Alura e na Boticario Desenvolve + Alura
+- 👋 Olá, eu sou @MirianCr<br>
+- 👀 Estou atualmente estudando programação nos projetos da Oracle_One + Alura e na Boticario Desenvolve + Alura<br>
 - 💞️ Eu pretendo colaborar e aprender novos projetos 
 
 
