@@ -1,8 +1,8 @@
 
 <div id="header" > 
 - 👋 Olá, eu sou @MirianCr<br>
-- 👀 Estou atualmente estudando programação nos projetos da Oracle_One + Alura e na Boticario Desenvolve + Alura <br>
-- 💞️ Eu pretendo colaborar e aprender novos projetos   
+- 👀 Estou atualmente estudando programação já participei dos projetos da Oracle_One + Alura e na Boticario Desenvolve + Alura <br>
+- 💞️  
 </div>
 
 ##
